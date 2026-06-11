@@ -13,6 +13,7 @@ I am passionate about solving real-world problems using AI technologies and cont
 🎓 **Student at:** Rathinam Global Deemed to be University
 
 💡 **Areas of Interest:** Data Science, Machine Learning, Deep Learning, Computer Vision, AI Applications
+
 ---
 
 ##  Skills & Tools
