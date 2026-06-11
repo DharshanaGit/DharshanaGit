@@ -8,8 +8,10 @@ My experience includes developing Machine Learning and Deep Learning projects in
 
 I am passionate about solving real-world problems using AI technologies and continuously expanding my knowledge in Machine Learning, Deep Learning, and modern data science tools.
 
-📍Coimbatore, Tamil Nadu, India  
+📍 **Location:** Coimbatore, Tamil Nadu, India
+
 🎓 **Student at:** Rathinam Global Deemed to be University
+
 🚀 **Focus Areas:** Data Science, Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence (AI) Applications
 ---
 
